@@ -1,0 +1,1001 @@
+record_id,skill_id,skill,category,observation,curriculum_score,industry_demand
+1,1,Python,Programming,1,42,74
+2,1,Python,Programming,2,54,73
+3,1,Python,Programming,3,56,74
+4,1,Python,Programming,4,52,74
+5,1,Python,Programming,5,42,74
+6,1,Python,Programming,6,53,73
+7,1,Python,Programming,7,43,80
+8,1,Python,Programming,8,45,77
+9,1,Python,Programming,9,51,72
+10,1,Python,Programming,10,54,80
+11,2,Java,Programming,1,57,84
+12,2,Java,Programming,2,63,79
+13,2,Java,Programming,3,61,77
+14,2,Java,Programming,4,58,81
+15,2,Java,Programming,5,58,81
+16,2,Java,Programming,6,65,80
+17,2,Java,Programming,7,69,82
+18,2,Java,Programming,8,60,77
+19,2,Java,Programming,9,56,82
+20,2,Java,Programming,10,68,82
+21,3,C,Programming,1,69,87
+22,3,C,Programming,2,70,78
+23,3,C,Programming,3,83,81
+24,3,C,Programming,4,71,80
+25,3,C,Programming,5,77,86
+26,3,C,Programming,6,81,79
+27,3,C,Programming,7,73,87
+28,3,C,Programming,8,82,79
+29,3,C,Programming,9,83,85
+30,3,C,Programming,10,68,85
+31,4,C++,Programming,1,43,94
+32,4,C++,Programming,2,31,95
+33,4,C++,Programming,3,44,97
+34,4,C++,Programming,4,39,87
+35,4,C++,Programming,5,42,91
+36,4,C++,Programming,6,30,90
+37,4,C++,Programming,7,32,87
+38,4,C++,Programming,8,43,92
+39,4,C++,Programming,9,32,95
+40,4,C++,Programming,10,31,88
+41,5,C#,Programming,1,82,89
+42,5,C#,Programming,2,94,87
+43,5,C#,Programming,3,85,95
+44,5,C#,Programming,4,94,90
+45,5,C#,Programming,5,93,92
+46,5,C#,Programming,6,93,91
+47,5,C#,Programming,7,83,95
+48,5,C#,Programming,8,85,95
+49,5,C#,Programming,9,92,86
+50,5,C#,Programming,10,86,93
+51,6,JavaScript,Web Development,1,51,91
+52,6,JavaScript,Web Development,2,47,88
+53,6,JavaScript,Web Development,3,56,95
+54,6,JavaScript,Web Development,4,60,96
+55,6,JavaScript,Web Development,5,59,91
+56,6,JavaScript,Web Development,6,54,95
+57,6,JavaScript,Web Development,7,58,90
+58,6,JavaScript,Web Development,8,55,91
+59,6,JavaScript,Web Development,9,50,88
+60,6,JavaScript,Web Development,10,60,97
+61,7,TypeScript,Web Development,1,78,59
+62,7,TypeScript,Web Development,2,73,57
+63,7,TypeScript,Web Development,3,72,63
+64,7,TypeScript,Web Development,4,72,59
+65,7,TypeScript,Web Development,5,72,62
+66,7,TypeScript,Web Development,6,85,59
+67,7,TypeScript,Web Development,7,77,56
+68,7,TypeScript,Web Development,8,75,64
+69,7,TypeScript,Web Development,9,80,59
+70,7,TypeScript,Web Development,10,81,65
+71,8,HTML,Web Development,1,67,79
+72,8,HTML,Web Development,2,64,85
+73,8,HTML,Web Development,3,76,78
+74,8,HTML,Web Development,4,73,79
+75,8,HTML,Web Development,5,68,75
+76,8,HTML,Web Development,6,65,85
+77,8,HTML,Web Development,7,73,83
+78,8,HTML,Web Development,8,75,75
+79,8,HTML,Web Development,9,71,85
+80,8,HTML,Web Development,10,72,83
+81,9,CSS,Web Development,1,55,83
+82,9,CSS,Web Development,2,51,87
+83,9,CSS,Web Development,3,47,89
+84,9,CSS,Web Development,4,57,84
+85,9,CSS,Web Development,5,49,85
+86,9,CSS,Web Development,6,46,88
+87,9,CSS,Web Development,7,43,89
+88,9,CSS,Web Development,8,55,87
+89,9,CSS,Web Development,9,58,83
+90,9,CSS,Web Development,10,54,84
+91,10,React,Web Development,1,48,78
+92,10,React,Web Development,2,40,75
+93,10,React,Web Development,3,49,69
+94,10,React,Web Development,4,44,68
+95,10,React,Web Development,5,46,74
+96,10,React,Web Development,6,39,69
+97,10,React,Web Development,7,44,77
+98,10,React,Web Development,8,44,75
+99,10,React,Web Development,9,44,73
+100,10,React,Web Development,10,47,68
+101,11,Angular,Web Development,1,38,74
+102,11,Angular,Web Development,2,42,76
+103,11,Angular,Web Development,3,41,73
+104,11,Angular,Web Development,4,42,75
+105,11,Angular,Web Development,5,45,71
+106,11,Angular,Web Development,6,47,74
+107,11,Angular,Web Development,7,46,71
+108,11,Angular,Web Development,8,43,72
+109,11,Angular,Web Development,9,51,74
+110,11,Angular,Web Development,10,49,68
+111,12,Vue.js,Web Development,1,83,88
+112,12,Vue.js,Web Development,2,84,90
+113,12,Vue.js,Web Development,3,86,85
+114,12,Vue.js,Web Development,4,80,87
+115,12,Vue.js,Web Development,5,73,89
+116,12,Vue.js,Web Development,6,86,89
+117,12,Vue.js,Web Development,7,77,88
+118,12,Vue.js,Web Development,8,83,88
+119,12,Vue.js,Web Development,9,85,94
+120,12,Vue.js,Web Development,10,80,92
+121,13,Node.js,Backend Development,1,65,83
+122,13,Node.js,Backend Development,2,72,83
+123,13,Node.js,Backend Development,3,62,81
+124,13,Node.js,Backend Development,4,62,78
+125,13,Node.js,Backend Development,5,72,78
+126,13,Node.js,Backend Development,6,58,84
+127,13,Node.js,Backend Development,7,58,77
+128,13,Node.js,Backend Development,8,58,76
+129,13,Node.js,Backend Development,9,70,78
+130,13,Node.js,Backend Development,10,64,77
+131,14,Django,Backend Development,1,67,67
+132,14,Django,Backend Development,2,83,71
+133,14,Django,Backend Development,3,78,64
+134,14,Django,Backend Development,4,82,74
+135,14,Django,Backend Development,5,82,64
+136,14,Django,Backend Development,6,67,72
+137,14,Django,Backend Development,7,80,64
+138,14,Django,Backend Development,8,67,72
+139,14,Django,Backend Development,9,75,72
+140,14,Django,Backend Development,10,76,64
+141,15,Flask,Backend Development,1,59,83
+142,15,Flask,Backend Development,2,57,90
+143,15,Flask,Backend Development,3,58,85
+144,15,Flask,Backend Development,4,60,91
+145,15,Flask,Backend Development,5,70,86
+146,15,Flask,Backend Development,6,65,86
+147,15,Flask,Backend Development,7,66,83
+148,15,Flask,Backend Development,8,65,88
+149,15,Flask,Backend Development,9,68,91
+150,15,Flask,Backend Development,10,61,85
+151,16,Spring Boot,Backend Development,1,42,61
+152,16,Spring Boot,Backend Development,2,53,66
+153,16,Spring Boot,Backend Development,3,53,68
+154,16,Spring Boot,Backend Development,4,56,60
+155,16,Spring Boot,Backend Development,5,41,62
+156,16,Spring Boot,Backend Development,6,43,67
+157,16,Spring Boot,Backend Development,7,54,70
+158,16,Spring Boot,Backend Development,8,51,69
+159,16,Spring Boot,Backend Development,9,44,68
+160,16,Spring Boot,Backend Development,10,42,63
+161,17,SQL,Database,1,50,95
+162,17,SQL,Database,2,36,92
+163,17,SQL,Database,3,43,99
+164,17,SQL,Database,4,36,93
+165,17,SQL,Database,5,45,91
+166,17,SQL,Database,6,41,100
+167,17,SQL,Database,7,39,97
+168,17,SQL,Database,8,37,95
+169,17,SQL,Database,9,40,100
+170,17,SQL,Database,10,42,100
+171,18,MySQL,Database,1,85,85
+172,18,MySQL,Database,2,79,80
+173,18,MySQL,Database,3,91,84
+174,18,MySQL,Database,4,76,80
+175,18,MySQL,Database,5,88,82
+176,18,MySQL,Database,6,77,84
+177,18,MySQL,Database,7,87,84
+178,18,MySQL,Database,8,75,89
+179,18,MySQL,Database,9,83,86
+180,18,MySQL,Database,10,90,82
+181,19,PostgreSQL,Database,1,56,96
+182,19,PostgreSQL,Database,2,49,100
+183,19,PostgreSQL,Database,3,56,91
+184,19,PostgreSQL,Database,4,53,93
+185,19,PostgreSQL,Database,5,46,91
+186,19,PostgreSQL,Database,6,52,92
+187,19,PostgreSQL,Database,7,56,100
+188,19,PostgreSQL,Database,8,48,96
+189,19,PostgreSQL,Database,9,54,95
+190,19,PostgreSQL,Database,10,47,91
+191,20,MongoDB,Database,1,36,79
+192,20,MongoDB,Database,2,30,75
+193,20,MongoDB,Database,3,26,75
+194,20,MongoDB,Database,4,27,80
+195,20,MongoDB,Database,5,36,82
+196,20,MongoDB,Database,6,38,80
+197,20,MongoDB,Database,7,25,74
+198,20,MongoDB,Database,8,24,79
+199,20,MongoDB,Database,9,24,83
+200,20,MongoDB,Database,10,32,80
+201,21,Redis,Database,1,35,79
+202,21,Redis,Database,2,24,81
+203,21,Redis,Database,3,29,82
+204,21,Redis,Database,4,38,75
+205,21,Redis,Database,5,34,75
+206,21,Redis,Database,6,26,77
+207,21,Redis,Database,7,31,77
+208,21,Redis,Database,8,37,75
+209,21,Redis,Database,9,24,75
+210,21,Redis,Database,10,35,77
+211,22,Oracle,Database,1,63,75
+212,22,Oracle,Database,2,59,78
+213,22,Oracle,Database,3,55,84
+214,22,Oracle,Database,4,63,83
+215,22,Oracle,Database,5,54,81
+216,22,Oracle,Database,6,51,76
+217,22,Oracle,Database,7,57,74
+218,22,Oracle,Database,8,60,79
+219,22,Oracle,Database,9,60,79
+220,22,Oracle,Database,10,62,79
+221,23,Data Structures,Computer Science,1,53,97
+222,23,Data Structures,Computer Science,2,59,100
+223,23,Data Structures,Computer Science,3,55,100
+224,23,Data Structures,Computer Science,4,59,95
+225,23,Data Structures,Computer Science,5,61,98
+226,23,Data Structures,Computer Science,6,58,100
+227,23,Data Structures,Computer Science,7,64,100
+228,23,Data Structures,Computer Science,8,56,98
+229,23,Data Structures,Computer Science,9,61,97
+230,23,Data Structures,Computer Science,10,61,98
+231,24,Algorithms,Computer Science,1,35,100
+232,24,Algorithms,Computer Science,2,34,100
+233,24,Algorithms,Computer Science,3,29,98
+234,24,Algorithms,Computer Science,4,35,98
+235,24,Algorithms,Computer Science,5,38,92
+236,24,Algorithms,Computer Science,6,42,100
+237,24,Algorithms,Computer Science,7,44,93
+238,24,Algorithms,Computer Science,8,38,94
+239,24,Algorithms,Computer Science,9,37,100
+240,24,Algorithms,Computer Science,10,33,97
+241,25,OOP,Computer Science,1,74,86
+242,25,OOP,Computer Science,2,87,88
+243,25,OOP,Computer Science,3,84,87
+244,25,OOP,Computer Science,4,88,85
+245,25,OOP,Computer Science,5,73,84
+246,25,OOP,Computer Science,6,74,80
+247,25,OOP,Computer Science,7,79,89
+248,25,OOP,Computer Science,8,83,81
+249,25,OOP,Computer Science,9,73,88
+250,25,OOP,Computer Science,10,84,84
+251,26,Operating Systems,Computer Science,1,75,82
+252,26,Operating Systems,Computer Science,2,75,86
+253,26,Operating Systems,Computer Science,3,79,90
+254,26,Operating Systems,Computer Science,4,88,90
+255,26,Operating Systems,Computer Science,5,79,89
+256,26,Operating Systems,Computer Science,6,83,88
+257,26,Operating Systems,Computer Science,7,86,92
+258,26,Operating Systems,Computer Science,8,88,84
+259,26,Operating Systems,Computer Science,9,83,82
+260,26,Operating Systems,Computer Science,10,87,83
+261,27,Computer Networks,Computer Science,1,42,82
+262,27,Computer Networks,Computer Science,2,44,86
+263,27,Computer Networks,Computer Science,3,49,86
+264,27,Computer Networks,Computer Science,4,54,84
+265,27,Computer Networks,Computer Science,5,56,88
+266,27,Computer Networks,Computer Science,6,51,88
+267,27,Computer Networks,Computer Science,7,43,88
+268,27,Computer Networks,Computer Science,8,54,86
+269,27,Computer Networks,Computer Science,9,42,85
+270,27,Computer Networks,Computer Science,10,41,82
+271,28,DBMS,Computer Science,1,26,86
+272,28,DBMS,Computer Science,2,28,79
+273,28,DBMS,Computer Science,3,39,78
+274,28,DBMS,Computer Science,4,28,81
+275,28,DBMS,Computer Science,5,36,83
+276,28,DBMS,Computer Science,6,30,82
+277,28,DBMS,Computer Science,7,28,78
+278,28,DBMS,Computer Science,8,36,82
+279,28,DBMS,Computer Science,9,23,85
+280,28,DBMS,Computer Science,10,29,83
+281,29,Software Engineering,Software Engineering,1,71,82
+282,29,Software Engineering,Software Engineering,2,65,85
+283,29,Software Engineering,Software Engineering,3,67,83
+284,29,Software Engineering,Software Engineering,4,62,90
+285,29,Software Engineering,Software Engineering,5,64,87
+286,29,Software Engineering,Software Engineering,6,69,85
+287,29,Software Engineering,Software Engineering,7,73,83
+288,29,Software Engineering,Software Engineering,8,67,92
+289,29,Software Engineering,Software Engineering,9,74,90
+290,29,Software Engineering,Software Engineering,10,69,91
+291,30,System Design,Software Engineering,1,49,85
+292,30,System Design,Software Engineering,2,57,87
+293,30,System Design,Software Engineering,3,51,90
+294,30,System Design,Software Engineering,4,55,89
+295,30,System Design,Software Engineering,5,48,90
+296,30,System Design,Software Engineering,6,50,85
+297,30,System Design,Software Engineering,7,49,83
+298,30,System Design,Software Engineering,8,55,81
+299,30,System Design,Software Engineering,9,51,85
+300,30,System Design,Software Engineering,10,50,88
+301,31,Machine Learning,AI/ML,1,50,90
+302,31,Machine Learning,AI/ML,2,58,87
+303,31,Machine Learning,AI/ML,3,51,88
+304,31,Machine Learning,AI/ML,4,51,89
+305,31,Machine Learning,AI/ML,5,51,88
+306,31,Machine Learning,AI/ML,6,55,83
+307,31,Machine Learning,AI/ML,7,51,86
+308,31,Machine Learning,AI/ML,8,60,90
+309,31,Machine Learning,AI/ML,9,47,86
+310,31,Machine Learning,AI/ML,10,46,88
+311,32,Deep Learning,AI/ML,1,42,75
+312,32,Deep Learning,AI/ML,2,46,77
+313,32,Deep Learning,AI/ML,3,45,73
+314,32,Deep Learning,AI/ML,4,45,73
+315,32,Deep Learning,AI/ML,5,44,74
+316,32,Deep Learning,AI/ML,6,35,68
+317,32,Deep Learning,AI/ML,7,30,70
+318,32,Deep Learning,AI/ML,8,39,67
+319,32,Deep Learning,AI/ML,9,38,70
+320,32,Deep Learning,AI/ML,10,39,69
+321,33,Data Science,AI/ML,1,86,92
+322,33,Data Science,AI/ML,2,87,85
+323,33,Data Science,AI/ML,3,74,88
+324,33,Data Science,AI/ML,4,82,92
+325,33,Data Science,AI/ML,5,72,91
+326,33,Data Science,AI/ML,6,77,90
+327,33,Data Science,AI/ML,7,74,94
+328,33,Data Science,AI/ML,8,78,88
+329,33,Data Science,AI/ML,9,72,91
+330,33,Data Science,AI/ML,10,79,89
+331,34,Statistics,AI/ML,1,91,61
+332,34,Statistics,AI/ML,2,84,63
+333,34,Statistics,AI/ML,3,88,69
+334,34,Statistics,AI/ML,4,90,62
+335,34,Statistics,AI/ML,5,81,63
+336,34,Statistics,AI/ML,6,83,60
+337,34,Statistics,AI/ML,7,88,68
+338,34,Statistics,AI/ML,8,85,69
+339,34,Statistics,AI/ML,9,82,65
+340,34,Statistics,AI/ML,10,86,64
+341,35,Natural Language Processing,AI/ML,1,74,82
+342,35,Natural Language Processing,AI/ML,2,61,74
+343,35,Natural Language Processing,AI/ML,3,71,72
+344,35,Natural Language Processing,AI/ML,4,66,82
+345,35,Natural Language Processing,AI/ML,5,62,74
+346,35,Natural Language Processing,AI/ML,6,65,74
+347,35,Natural Language Processing,AI/ML,7,68,75
+348,35,Natural Language Processing,AI/ML,8,70,79
+349,35,Natural Language Processing,AI/ML,9,62,81
+350,35,Natural Language Processing,AI/ML,10,66,82
+351,36,Computer Vision,AI/ML,1,62,80
+352,36,Computer Vision,AI/ML,2,50,85
+353,36,Computer Vision,AI/ML,3,64,83
+354,36,Computer Vision,AI/ML,4,59,86
+355,36,Computer Vision,AI/ML,5,63,84
+356,36,Computer Vision,AI/ML,6,48,80
+357,36,Computer Vision,AI/ML,7,62,89
+358,36,Computer Vision,AI/ML,8,59,80
+359,36,Computer Vision,AI/ML,9,60,82
+360,36,Computer Vision,AI/ML,10,61,82
+361,37,Generative AI,AI/ML,1,63,76
+362,37,Generative AI,AI/ML,2,63,80
+363,37,Generative AI,AI/ML,3,57,81
+364,37,Generative AI,AI/ML,4,68,77
+365,37,Generative AI,AI/ML,5,54,72
+366,37,Generative AI,AI/ML,6,56,82
+367,37,Generative AI,AI/ML,7,67,72
+368,37,Generative AI,AI/ML,8,56,74
+369,37,Generative AI,AI/ML,9,67,79
+370,37,Generative AI,AI/ML,10,53,78
+371,38,Large Language Models,AI/ML,1,43,65
+372,38,Large Language Models,AI/ML,2,42,64
+373,38,Large Language Models,AI/ML,3,45,67
+374,38,Large Language Models,AI/ML,4,36,68
+375,38,Large Language Models,AI/ML,5,39,63
+376,38,Large Language Models,AI/ML,6,46,73
+377,38,Large Language Models,AI/ML,7,43,66
+378,38,Large Language Models,AI/ML,8,47,73
+379,38,Large Language Models,AI/ML,9,36,64
+380,38,Large Language Models,AI/ML,10,34,66
+381,39,TensorFlow,AI/ML,1,56,68
+382,39,TensorFlow,AI/ML,2,59,67
+383,39,TensorFlow,AI/ML,3,66,59
+384,39,TensorFlow,AI/ML,4,52,64
+385,39,TensorFlow,AI/ML,5,55,65
+386,39,TensorFlow,AI/ML,6,56,66
+387,39,TensorFlow,AI/ML,7,54,62
+388,39,TensorFlow,AI/ML,8,64,60
+389,39,TensorFlow,AI/ML,9,55,60
+390,39,TensorFlow,AI/ML,10,62,64
+391,40,PyTorch,AI/ML,1,82,80
+392,40,PyTorch,AI/ML,2,82,84
+393,40,PyTorch,AI/ML,3,82,75
+394,40,PyTorch,AI/ML,4,94,83
+395,40,PyTorch,AI/ML,5,78,83
+396,40,PyTorch,AI/ML,6,83,81
+397,40,PyTorch,AI/ML,7,89,77
+398,40,PyTorch,AI/ML,8,82,80
+399,40,PyTorch,AI/ML,9,92,77
+400,40,PyTorch,AI/ML,10,80,75
+401,41,Scikit-learn,AI/ML,1,42,67
+402,41,Scikit-learn,AI/ML,2,43,67
+403,41,Scikit-learn,AI/ML,3,34,65
+404,41,Scikit-learn,AI/ML,4,38,72
+405,41,Scikit-learn,AI/ML,5,32,65
+406,41,Scikit-learn,AI/ML,6,39,62
+407,41,Scikit-learn,AI/ML,7,39,65
+408,41,Scikit-learn,AI/ML,8,46,71
+409,41,Scikit-learn,AI/ML,9,46,65
+410,41,Scikit-learn,AI/ML,10,42,66
+411,42,Pandas,Data Engineering,1,70,65
+412,42,Pandas,Data Engineering,2,75,59
+413,42,Pandas,Data Engineering,3,70,65
+414,42,Pandas,Data Engineering,4,65,66
+415,42,Pandas,Data Engineering,5,63,63
+416,42,Pandas,Data Engineering,6,73,60
+417,42,Pandas,Data Engineering,7,75,67
+418,42,Pandas,Data Engineering,8,76,63
+419,42,Pandas,Data Engineering,9,68,65
+420,42,Pandas,Data Engineering,10,65,58
+421,43,NumPy,Data Engineering,1,59,63
+422,43,NumPy,Data Engineering,2,65,59
+423,43,NumPy,Data Engineering,3,60,65
+424,43,NumPy,Data Engineering,4,75,63
+425,43,NumPy,Data Engineering,5,75,65
+426,43,NumPy,Data Engineering,6,72,65
+427,43,NumPy,Data Engineering,7,61,69
+428,43,NumPy,Data Engineering,8,63,63
+429,43,NumPy,Data Engineering,9,61,63
+430,43,NumPy,Data Engineering,10,61,67
+431,44,Apache Spark,Data Engineering,1,84,76
+432,44,Apache Spark,Data Engineering,2,90,74
+433,44,Apache Spark,Data Engineering,3,82,72
+434,44,Apache Spark,Data Engineering,4,93,71
+435,44,Apache Spark,Data Engineering,5,81,71
+436,44,Apache Spark,Data Engineering,6,82,74
+437,44,Apache Spark,Data Engineering,7,83,75
+438,44,Apache Spark,Data Engineering,8,81,72
+439,44,Apache Spark,Data Engineering,9,85,69
+440,44,Apache Spark,Data Engineering,10,80,70
+441,45,Hadoop,Data Engineering,1,71,62
+442,45,Hadoop,Data Engineering,2,77,63
+443,45,Hadoop,Data Engineering,3,82,59
+444,45,Hadoop,Data Engineering,4,71,60
+445,45,Hadoop,Data Engineering,5,70,59
+446,45,Hadoop,Data Engineering,6,69,55
+447,45,Hadoop,Data Engineering,7,76,61
+448,45,Hadoop,Data Engineering,8,74,63
+449,45,Hadoop,Data Engineering,9,68,59
+450,45,Hadoop,Data Engineering,10,68,62
+451,46,ETL,Data Engineering,1,62,87
+452,46,ETL,Data Engineering,2,66,96
+453,46,ETL,Data Engineering,3,56,92
+454,46,ETL,Data Engineering,4,56,91
+455,46,ETL,Data Engineering,5,54,96
+456,46,ETL,Data Engineering,6,54,90
+457,46,ETL,Data Engineering,7,67,87
+458,46,ETL,Data Engineering,8,52,87
+459,46,ETL,Data Engineering,9,58,87
+460,46,ETL,Data Engineering,10,66,92
+461,47,Data Warehousing,Data Engineering,1,51,64
+462,47,Data Warehousing,Data Engineering,2,59,67
+463,47,Data Warehousing,Data Engineering,3,56,67
+464,47,Data Warehousing,Data Engineering,4,59,69
+465,47,Data Warehousing,Data Engineering,5,54,65
+466,47,Data Warehousing,Data Engineering,6,57,65
+467,47,Data Warehousing,Data Engineering,7,62,74
+468,47,Data Warehousing,Data Engineering,8,47,66
+469,47,Data Warehousing,Data Engineering,9,53,72
+470,47,Data Warehousing,Data Engineering,10,47,70
+471,48,Power BI,Data Analytics,1,35,88
+472,48,Power BI,Data Analytics,2,36,85
+473,48,Power BI,Data Analytics,3,40,84
+474,48,Power BI,Data Analytics,4,37,87
+475,48,Power BI,Data Analytics,5,35,93
+476,48,Power BI,Data Analytics,6,35,93
+477,48,Power BI,Data Analytics,7,33,91
+478,48,Power BI,Data Analytics,8,37,93
+479,48,Power BI,Data Analytics,9,41,87
+480,48,Power BI,Data Analytics,10,33,86
+481,49,Tableau,Data Analytics,1,22,84
+482,49,Tableau,Data Analytics,2,33,91
+483,49,Tableau,Data Analytics,3,22,86
+484,49,Tableau,Data Analytics,4,22,91
+485,49,Tableau,Data Analytics,5,34,85
+486,49,Tableau,Data Analytics,6,25,84
+487,49,Tableau,Data Analytics,7,38,84
+488,49,Tableau,Data Analytics,8,35,88
+489,49,Tableau,Data Analytics,9,23,83
+490,49,Tableau,Data Analytics,10,30,82
+491,50,Excel,Data Analytics,1,40,75
+492,50,Excel,Data Analytics,2,35,76
+493,50,Excel,Data Analytics,3,26,78
+494,50,Excel,Data Analytics,4,27,77
+495,50,Excel,Data Analytics,5,28,79
+496,50,Excel,Data Analytics,6,36,70
+497,50,Excel,Data Analytics,7,25,75
+498,50,Excel,Data Analytics,8,28,72
+499,50,Excel,Data Analytics,9,33,73
+500,50,Excel,Data Analytics,10,34,75
+501,51,AWS,Cloud,1,76,82
+502,51,AWS,Cloud,2,74,78
+503,51,AWS,Cloud,3,68,78
+504,51,AWS,Cloud,4,70,84
+505,51,AWS,Cloud,5,69,77
+506,51,AWS,Cloud,6,69,77
+507,51,AWS,Cloud,7,80,82
+508,51,AWS,Cloud,8,76,81
+509,51,AWS,Cloud,9,69,83
+510,51,AWS,Cloud,10,77,78
+511,52,Microsoft Azure,Cloud,1,64,78
+512,52,Microsoft Azure,Cloud,2,53,75
+513,52,Microsoft Azure,Cloud,3,55,84
+514,52,Microsoft Azure,Cloud,4,59,83
+515,52,Microsoft Azure,Cloud,5,51,77
+516,52,Microsoft Azure,Cloud,6,60,76
+517,52,Microsoft Azure,Cloud,7,52,77
+518,52,Microsoft Azure,Cloud,8,61,80
+519,52,Microsoft Azure,Cloud,9,66,74
+520,52,Microsoft Azure,Cloud,10,59,78
+521,53,Google Cloud,Cloud,1,74,72
+522,53,Google Cloud,Cloud,2,88,74
+523,53,Google Cloud,Cloud,3,81,67
+524,53,Google Cloud,Cloud,4,88,67
+525,53,Google Cloud,Cloud,5,78,67
+526,53,Google Cloud,Cloud,6,74,66
+527,53,Google Cloud,Cloud,7,81,68
+528,53,Google Cloud,Cloud,8,80,72
+529,53,Google Cloud,Cloud,9,85,76
+530,53,Google Cloud,Cloud,10,76,75
+531,54,Cloud Computing,Cloud,1,61,71
+532,54,Cloud Computing,Cloud,2,61,74
+533,54,Cloud Computing,Cloud,3,73,73
+534,54,Cloud Computing,Cloud,4,61,76
+535,54,Cloud Computing,Cloud,5,62,71
+536,54,Cloud Computing,Cloud,6,73,71
+537,54,Cloud Computing,Cloud,7,64,80
+538,54,Cloud Computing,Cloud,8,72,77
+539,54,Cloud Computing,Cloud,9,74,71
+540,54,Cloud Computing,Cloud,10,71,81
+541,55,Docker,DevOps,1,60,69
+542,55,Docker,DevOps,2,54,70
+543,55,Docker,DevOps,3,57,73
+544,55,Docker,DevOps,4,53,66
+545,55,Docker,DevOps,5,56,76
+546,55,Docker,DevOps,6,58,73
+547,55,Docker,DevOps,7,62,74
+548,55,Docker,DevOps,8,64,66
+549,55,Docker,DevOps,9,51,70
+550,55,Docker,DevOps,10,61,68
+551,56,Kubernetes,DevOps,1,64,70
+552,56,Kubernetes,DevOps,2,48,73
+553,56,Kubernetes,DevOps,3,59,74
+554,56,Kubernetes,DevOps,4,63,72
+555,56,Kubernetes,DevOps,5,64,72
+556,56,Kubernetes,DevOps,6,60,71
+557,56,Kubernetes,DevOps,7,53,67
+558,56,Kubernetes,DevOps,8,58,76
+559,56,Kubernetes,DevOps,9,55,67
+560,56,Kubernetes,DevOps,10,56,67
+561,57,Jenkins,DevOps,1,89,90
+562,57,Jenkins,DevOps,2,80,87
+563,57,Jenkins,DevOps,3,76,88
+564,57,Jenkins,DevOps,4,80,89
+565,57,Jenkins,DevOps,5,74,88
+566,57,Jenkins,DevOps,6,85,90
+567,57,Jenkins,DevOps,7,78,87
+568,57,Jenkins,DevOps,8,80,94
+569,57,Jenkins,DevOps,9,83,90
+570,57,Jenkins,DevOps,10,73,90
+571,58,CI/CD,DevOps,1,86,100
+572,58,CI/CD,DevOps,2,88,98
+573,58,CI/CD,DevOps,3,91,93
+574,58,CI/CD,DevOps,4,97,91
+575,58,CI/CD,DevOps,5,84,91
+576,58,CI/CD,DevOps,6,89,100
+577,58,CI/CD,DevOps,7,89,91
+578,58,CI/CD,DevOps,8,98,98
+579,58,CI/CD,DevOps,9,82,96
+580,58,CI/CD,DevOps,10,88,93
+581,59,Git,DevOps,1,53,66
+582,59,Git,DevOps,2,43,68
+583,59,Git,DevOps,3,47,67
+584,59,Git,DevOps,4,59,71
+585,59,Git,DevOps,5,45,71
+586,59,Git,DevOps,6,55,75
+587,59,Git,DevOps,7,46,71
+588,59,Git,DevOps,8,52,71
+589,59,Git,DevOps,9,47,68
+590,59,Git,DevOps,10,56,76
+591,60,GitHub,DevOps,1,58,83
+592,60,GitHub,DevOps,2,64,78
+593,60,GitHub,DevOps,3,58,81
+594,60,GitHub,DevOps,4,62,79
+595,60,GitHub,DevOps,5,57,77
+596,60,GitHub,DevOps,6,53,84
+597,60,GitHub,DevOps,7,65,84
+598,60,GitHub,DevOps,8,54,77
+599,60,GitHub,DevOps,9,63,84
+600,60,GitHub,DevOps,10,60,85
+601,61,GitLab,DevOps,1,73,63
+602,61,GitLab,DevOps,2,68,62
+603,61,GitLab,DevOps,3,65,66
+604,61,GitLab,DevOps,4,68,63
+605,61,GitLab,DevOps,5,60,71
+606,61,GitLab,DevOps,6,68,68
+607,61,GitLab,DevOps,7,58,65
+608,61,GitLab,DevOps,8,64,64
+609,61,GitLab,DevOps,9,60,66
+610,61,GitLab,DevOps,10,66,62
+611,62,Linux,DevOps,1,69,61
+612,62,Linux,DevOps,2,82,61
+613,62,Linux,DevOps,3,73,61
+614,62,Linux,DevOps,4,83,61
+615,62,Linux,DevOps,5,79,63
+616,62,Linux,DevOps,6,80,56
+617,62,Linux,DevOps,7,83,64
+618,62,Linux,DevOps,8,75,57
+619,62,Linux,DevOps,9,82,56
+620,62,Linux,DevOps,10,69,59
+621,63,Terraform,DevOps,1,31,76
+622,63,Terraform,DevOps,2,25,80
+623,63,Terraform,DevOps,3,28,81
+624,63,Terraform,DevOps,4,28,76
+625,63,Terraform,DevOps,5,25,80
+626,63,Terraform,DevOps,6,38,75
+627,63,Terraform,DevOps,7,36,85
+628,63,Terraform,DevOps,8,28,84
+629,63,Terraform,DevOps,9,36,77
+630,63,Terraform,DevOps,10,24,76
+631,64,Ansible,DevOps,1,49,74
+632,64,Ansible,DevOps,2,51,78
+633,64,Ansible,DevOps,3,52,72
+634,64,Ansible,DevOps,4,50,69
+635,64,Ansible,DevOps,5,44,74
+636,64,Ansible,DevOps,6,58,70
+637,64,Ansible,DevOps,7,44,73
+638,64,Ansible,DevOps,8,43,74
+639,64,Ansible,DevOps,9,45,72
+640,64,Ansible,DevOps,10,58,71
+641,65,Cybersecurity,Security,1,34,58
+642,65,Cybersecurity,Security,2,37,57
+643,65,Cybersecurity,Security,3,43,57
+644,65,Cybersecurity,Security,4,37,62
+645,65,Cybersecurity,Security,5,43,63
+646,65,Cybersecurity,Security,6,36,57
+647,65,Cybersecurity,Security,7,40,58
+648,65,Cybersecurity,Security,8,39,62
+649,65,Cybersecurity,Security,9,39,58
+650,65,Cybersecurity,Security,10,42,56
+651,66,Ethical Hacking,Security,1,52,87
+652,66,Ethical Hacking,Security,2,45,87
+653,66,Ethical Hacking,Security,3,39,85
+654,66,Ethical Hacking,Security,4,41,84
+655,66,Ethical Hacking,Security,5,49,91
+656,66,Ethical Hacking,Security,6,51,92
+657,66,Ethical Hacking,Security,7,45,91
+658,66,Ethical Hacking,Security,8,39,89
+659,66,Ethical Hacking,Security,9,54,89
+660,66,Ethical Hacking,Security,10,53,92
+661,67,Network Security,Security,1,93,74
+662,67,Network Security,Security,2,80,76
+663,67,Network Security,Security,3,79,78
+664,67,Network Security,Security,4,94,79
+665,67,Network Security,Security,5,82,71
+666,67,Network Security,Security,6,92,72
+667,67,Network Security,Security,7,83,73
+668,67,Network Security,Security,8,84,72
+669,67,Network Security,Security,9,79,76
+670,67,Network Security,Security,10,80,80
+671,68,Cryptography,Security,1,53,76
+672,68,Cryptography,Security,2,57,72
+673,68,Cryptography,Security,3,51,68
+674,68,Cryptography,Security,4,61,75
+675,68,Cryptography,Security,5,61,75
+676,68,Cryptography,Security,6,59,71
+677,68,Cryptography,Security,7,65,74
+678,68,Cryptography,Security,8,49,76
+679,68,Cryptography,Security,9,65,73
+680,68,Cryptography,Security,10,52,73
+681,69,Information Security,Security,1,34,65
+682,69,Information Security,Security,2,34,68
+683,69,Information Security,Security,3,42,70
+684,69,Information Security,Security,4,39,70
+685,69,Information Security,Security,5,46,73
+686,69,Information Security,Security,6,46,64
+687,69,Information Security,Security,7,36,68
+688,69,Information Security,Security,8,43,66
+689,69,Information Security,Security,9,43,64
+690,69,Information Security,Security,10,43,69
+691,70,REST API,Backend Development,1,67,77
+692,70,REST API,Backend Development,2,74,75
+693,70,REST API,Backend Development,3,66,75
+694,70,REST API,Backend Development,4,75,74
+695,70,REST API,Backend Development,5,74,77
+696,70,REST API,Backend Development,6,69,73
+697,70,REST API,Backend Development,7,70,74
+698,70,REST API,Backend Development,8,80,75
+699,70,REST API,Backend Development,9,74,76
+700,70,REST API,Backend Development,10,68,73
+701,71,GraphQL,Backend Development,1,63,75
+702,71,GraphQL,Backend Development,2,66,73
+703,71,GraphQL,Backend Development,3,51,76
+704,71,GraphQL,Backend Development,4,55,69
+705,71,GraphQL,Backend Development,5,59,76
+706,71,GraphQL,Backend Development,6,62,70
+707,71,GraphQL,Backend Development,7,66,77
+708,71,GraphQL,Backend Development,8,50,70
+709,71,GraphQL,Backend Development,9,56,71
+710,71,GraphQL,Backend Development,10,51,71
+711,72,Microservices,Software Engineering,1,25,89
+712,72,Microservices,Software Engineering,2,30,88
+713,72,Microservices,Software Engineering,3,35,91
+714,72,Microservices,Software Engineering,4,40,90
+715,72,Microservices,Software Engineering,5,27,94
+716,72,Microservices,Software Engineering,6,24,87
+717,72,Microservices,Software Engineering,7,35,91
+718,72,Microservices,Software Engineering,8,38,86
+719,72,Microservices,Software Engineering,9,39,93
+720,72,Microservices,Software Engineering,10,35,89
+721,73,Agile,Software Engineering,1,34,75
+722,73,Agile,Software Engineering,2,32,77
+723,73,Agile,Software Engineering,3,33,73
+724,73,Agile,Software Engineering,4,38,74
+725,73,Agile,Software Engineering,5,39,81
+726,73,Agile,Software Engineering,6,38,75
+727,73,Agile,Software Engineering,7,45,79
+728,73,Agile,Software Engineering,8,32,81
+729,73,Agile,Software Engineering,9,32,78
+730,73,Agile,Software Engineering,10,36,81
+731,74,Scrum,Software Engineering,1,33,96
+732,74,Scrum,Software Engineering,2,41,100
+733,74,Scrum,Software Engineering,3,42,100
+734,74,Scrum,Software Engineering,4,41,99
+735,74,Scrum,Software Engineering,5,45,98
+736,74,Scrum,Software Engineering,6,47,97
+737,74,Scrum,Software Engineering,7,39,100
+738,74,Scrum,Software Engineering,8,42,100
+739,74,Scrum,Software Engineering,9,49,100
+740,74,Scrum,Software Engineering,10,45,100
+741,75,Unit Testing,Software Engineering,1,44,65
+742,75,Unit Testing,Software Engineering,2,39,63
+743,75,Unit Testing,Software Engineering,3,37,59
+744,75,Unit Testing,Software Engineering,4,31,62
+745,75,Unit Testing,Software Engineering,5,30,60
+746,75,Unit Testing,Software Engineering,6,36,65
+747,75,Unit Testing,Software Engineering,7,38,59
+748,75,Unit Testing,Software Engineering,8,36,65
+749,75,Unit Testing,Software Engineering,9,37,58
+750,75,Unit Testing,Software Engineering,10,32,63
+751,76,Integration Testing,Software Engineering,1,71,79
+752,76,Integration Testing,Software Engineering,2,82,80
+753,76,Integration Testing,Software Engineering,3,80,80
+754,76,Integration Testing,Software Engineering,4,74,70
+755,76,Integration Testing,Software Engineering,5,85,74
+756,76,Integration Testing,Software Engineering,6,78,76
+757,76,Integration Testing,Software Engineering,7,82,76
+758,76,Integration Testing,Software Engineering,8,71,79
+759,76,Integration Testing,Software Engineering,9,76,75
+760,76,Integration Testing,Software Engineering,10,77,80
+761,77,Selenium,Testing,1,67,93
+762,77,Selenium,Testing,2,65,87
+763,77,Selenium,Testing,3,61,89
+764,77,Selenium,Testing,4,59,92
+765,77,Selenium,Testing,5,60,89
+766,77,Selenium,Testing,6,61,95
+767,77,Selenium,Testing,7,66,95
+768,77,Selenium,Testing,8,58,88
+769,77,Selenium,Testing,9,67,88
+770,77,Selenium,Testing,10,65,91
+771,78,Jest,Testing,1,83,80
+772,78,Jest,Testing,2,81,83
+773,78,Jest,Testing,3,75,83
+774,78,Jest,Testing,4,73,86
+775,78,Jest,Testing,5,74,83
+776,78,Jest,Testing,6,78,84
+777,78,Jest,Testing,7,75,86
+778,78,Jest,Testing,8,84,84
+779,78,Jest,Testing,9,81,82
+780,78,Jest,Testing,10,73,78
+781,79,JUnit,Testing,1,40,73
+782,79,JUnit,Testing,2,44,69
+783,79,JUnit,Testing,3,40,69
+784,79,JUnit,Testing,4,32,74
+785,79,JUnit,Testing,5,40,77
+786,79,JUnit,Testing,6,35,72
+787,79,JUnit,Testing,7,31,67
+788,79,JUnit,Testing,8,44,71
+789,79,JUnit,Testing,9,36,69
+790,79,JUnit,Testing,10,35,74
+791,80,Postman,Testing,1,76,69
+792,80,Postman,Testing,2,85,70
+793,80,Postman,Testing,3,85,66
+794,80,Postman,Testing,4,85,67
+795,80,Postman,Testing,5,84,60
+796,80,Postman,Testing,6,73,68
+797,80,Postman,Testing,7,78,65
+798,80,Postman,Testing,8,72,65
+799,80,Postman,Testing,9,88,63
+800,80,Postman,Testing,10,72,70
+801,81,Figma,Design,1,29,75
+802,81,Figma,Design,2,31,72
+803,81,Figma,Design,3,25,76
+804,81,Figma,Design,4,38,79
+805,81,Figma,Design,5,31,72
+806,81,Figma,Design,6,24,70
+807,81,Figma,Design,7,31,74
+808,81,Figma,Design,8,36,78
+809,81,Figma,Design,9,38,75
+810,81,Figma,Design,10,35,80
+811,82,UI/UX Design,Design,1,45,81
+812,82,UI/UX Design,Design,2,36,78
+813,82,UI/UX Design,Design,3,42,76
+814,82,UI/UX Design,Design,4,37,79
+815,82,UI/UX Design,Design,5,34,79
+816,82,UI/UX Design,Design,6,30,85
+817,82,UI/UX Design,Design,7,46,78
+818,82,UI/UX Design,Design,8,33,81
+819,82,UI/UX Design,Design,9,31,82
+820,82,UI/UX Design,Design,10,38,84
+821,83,Mobile App Development,Mobile,1,62,68
+822,83,Mobile App Development,Mobile,2,64,68
+823,83,Mobile App Development,Mobile,3,61,58
+824,83,Mobile App Development,Mobile,4,64,64
+825,83,Mobile App Development,Mobile,5,75,64
+826,83,Mobile App Development,Mobile,6,64,66
+827,83,Mobile App Development,Mobile,7,69,65
+828,83,Mobile App Development,Mobile,8,65,61
+829,83,Mobile App Development,Mobile,9,61,62
+830,83,Mobile App Development,Mobile,10,74,68
+831,84,Android,Mobile,1,36,97
+832,84,Android,Mobile,2,32,94
+833,84,Android,Mobile,3,31,96
+834,84,Android,Mobile,4,31,92
+835,84,Android,Mobile,5,31,89
+836,84,Android,Mobile,6,43,91
+837,84,Android,Mobile,7,34,92
+838,84,Android,Mobile,8,44,91
+839,84,Android,Mobile,9,39,94
+840,84,Android,Mobile,10,37,90
+841,85,Kotlin,Mobile,1,39,93
+842,85,Kotlin,Mobile,2,39,95
+843,85,Kotlin,Mobile,3,31,90
+844,85,Kotlin,Mobile,4,24,100
+845,85,Kotlin,Mobile,5,26,91
+846,85,Kotlin,Mobile,6,39,92
+847,85,Kotlin,Mobile,7,26,98
+848,85,Kotlin,Mobile,8,26,91
+849,85,Kotlin,Mobile,9,32,100
+850,85,Kotlin,Mobile,10,31,97
+851,86,Swift,Mobile,1,54,71
+852,86,Swift,Mobile,2,43,73
+853,86,Swift,Mobile,3,41,75
+854,86,Swift,Mobile,4,51,81
+855,86,Swift,Mobile,5,50,77
+856,86,Swift,Mobile,6,43,72
+857,86,Swift,Mobile,7,41,71
+858,86,Swift,Mobile,8,44,81
+859,86,Swift,Mobile,9,45,76
+860,86,Swift,Mobile,10,51,78
+861,87,Flutter,Mobile,1,63,77
+862,87,Flutter,Mobile,2,71,74
+863,87,Flutter,Mobile,3,64,78
+864,87,Flutter,Mobile,4,73,79
+865,87,Flutter,Mobile,5,69,78
+866,87,Flutter,Mobile,6,76,78
+867,87,Flutter,Mobile,7,66,73
+868,87,Flutter,Mobile,8,65,72
+869,87,Flutter,Mobile,9,66,73
+870,87,Flutter,Mobile,10,74,81
+871,88,React Native,Mobile,1,66,93
+872,88,React Native,Mobile,2,64,96
+873,88,React Native,Mobile,3,52,100
+874,88,React Native,Mobile,4,56,98
+875,88,React Native,Mobile,5,67,92
+876,88,React Native,Mobile,6,65,98
+877,88,React Native,Mobile,7,53,92
+878,88,React Native,Mobile,8,60,100
+879,88,React Native,Mobile,9,62,91
+880,88,React Native,Mobile,10,68,100
+881,89,Blockchain,Emerging Technology,1,75,100
+882,89,Blockchain,Emerging Technology,2,78,99
+883,89,Blockchain,Emerging Technology,3,84,100
+884,89,Blockchain,Emerging Technology,4,71,97
+885,89,Blockchain,Emerging Technology,5,75,98
+886,89,Blockchain,Emerging Technology,6,79,100
+887,89,Blockchain,Emerging Technology,7,80,93
+888,89,Blockchain,Emerging Technology,8,69,91
+889,89,Blockchain,Emerging Technology,9,73,99
+890,89,Blockchain,Emerging Technology,10,83,98
+891,90,Smart Contracts,Emerging Technology,1,79,72
+892,90,Smart Contracts,Emerging Technology,2,87,68
+893,90,Smart Contracts,Emerging Technology,3,87,69
+894,90,Smart Contracts,Emerging Technology,4,78,73
+895,90,Smart Contracts,Emerging Technology,5,84,73
+896,90,Smart Contracts,Emerging Technology,6,89,71
+897,90,Smart Contracts,Emerging Technology,7,84,66
+898,90,Smart Contracts,Emerging Technology,8,91,72
+899,90,Smart Contracts,Emerging Technology,9,91,66
+900,90,Smart Contracts,Emerging Technology,10,92,72
+901,91,IoT,Emerging Technology,1,57,72
+902,91,IoT,Emerging Technology,2,42,63
+903,91,IoT,Emerging Technology,3,54,68
+904,91,IoT,Emerging Technology,4,43,70
+905,91,IoT,Emerging Technology,5,42,63
+906,91,IoT,Emerging Technology,6,51,70
+907,91,IoT,Emerging Technology,7,48,72
+908,91,IoT,Emerging Technology,8,56,67
+909,91,IoT,Emerging Technology,9,53,62
+910,91,IoT,Emerging Technology,10,49,69
+911,92,Edge Computing,Emerging Technology,1,58,100
+912,92,Edge Computing,Emerging Technology,2,54,97
+913,92,Edge Computing,Emerging Technology,3,46,91
+914,92,Edge Computing,Emerging Technology,4,50,90
+915,92,Edge Computing,Emerging Technology,5,53,95
+916,92,Edge Computing,Emerging Technology,6,52,98
+917,92,Edge Computing,Emerging Technology,7,59,95
+918,92,Edge Computing,Emerging Technology,8,46,90
+919,92,Edge Computing,Emerging Technology,9,48,97
+920,92,Edge Computing,Emerging Technology,10,47,96
+921,93,AR/VR,Emerging Technology,1,34,74
+922,93,AR/VR,Emerging Technology,2,31,77
+923,93,AR/VR,Emerging Technology,3,34,78
+924,93,AR/VR,Emerging Technology,4,34,76
+925,93,AR/VR,Emerging Technology,5,31,77
+926,93,AR/VR,Emerging Technology,6,29,81
+927,93,AR/VR,Emerging Technology,7,31,78
+928,93,AR/VR,Emerging Technology,8,42,81
+929,93,AR/VR,Emerging Technology,9,44,73
+930,93,AR/VR,Emerging Technology,10,43,71
+931,94,Prompt Engineering,Emerging Technology,1,68,67
+932,94,Prompt Engineering,Emerging Technology,2,70,66
+933,94,Prompt Engineering,Emerging Technology,3,60,67
+934,94,Prompt Engineering,Emerging Technology,4,60,60
+935,94,Prompt Engineering,Emerging Technology,5,58,64
+936,94,Prompt Engineering,Emerging Technology,6,65,66
+937,94,Prompt Engineering,Emerging Technology,7,67,64
+938,94,Prompt Engineering,Emerging Technology,8,62,62
+939,94,Prompt Engineering,Emerging Technology,9,67,63
+940,94,Prompt Engineering,Emerging Technology,10,64,65
+941,95,MLOps,AI/ML,1,77,69
+942,95,MLOps,AI/ML,2,89,67
+943,95,MLOps,AI/ML,3,83,71
+944,95,MLOps,AI/ML,4,79,66
+945,95,MLOps,AI/ML,5,79,72
+946,95,MLOps,AI/ML,6,82,73
+947,95,MLOps,AI/ML,7,84,73
+948,95,MLOps,AI/ML,8,77,73
+949,95,MLOps,AI/ML,9,78,71
+950,95,MLOps,AI/ML,10,83,64
+951,96,Feature Engineering,AI/ML,1,85,86
+952,96,Feature Engineering,AI/ML,2,83,87
+953,96,Feature Engineering,AI/ML,3,79,83
+954,96,Feature Engineering,AI/ML,4,70,85
+955,96,Feature Engineering,AI/ML,5,73,77
+956,96,Feature Engineering,AI/ML,6,82,79
+957,96,Feature Engineering,AI/ML,7,71,87
+958,96,Feature Engineering,AI/ML,8,71,80
+959,96,Feature Engineering,AI/ML,9,78,79
+960,96,Feature Engineering,AI/ML,10,79,87
+961,97,Computer Architecture,Computer Science,1,39,68
+962,97,Computer Architecture,Computer Science,2,44,72
+963,97,Computer Architecture,Computer Science,3,39,69
+964,97,Computer Architecture,Computer Science,4,52,65
+965,97,Computer Architecture,Computer Science,5,45,74
+966,97,Computer Architecture,Computer Science,6,50,67
+967,97,Computer Architecture,Computer Science,7,54,68
+968,97,Computer Architecture,Computer Science,8,39,70
+969,97,Computer Architecture,Computer Science,9,50,70
+970,97,Computer Architecture,Computer Science,10,48,72
+971,98,Discrete Mathematics,Mathematics,1,33,58
+972,98,Discrete Mathematics,Mathematics,2,39,58
+973,98,Discrete Mathematics,Mathematics,3,36,64
+974,98,Discrete Mathematics,Mathematics,4,31,58
+975,98,Discrete Mathematics,Mathematics,5,34,62
+976,98,Discrete Mathematics,Mathematics,6,30,65
+977,98,Discrete Mathematics,Mathematics,7,27,57
+978,98,Discrete Mathematics,Mathematics,8,30,63
+979,98,Discrete Mathematics,Mathematics,9,28,61
+980,98,Discrete Mathematics,Mathematics,10,26,61
+981,99,Probability,Mathematics,1,47,92
+982,99,Probability,Mathematics,2,44,99
+983,99,Probability,Mathematics,3,47,90
+984,99,Probability,Mathematics,4,49,97
+985,99,Probability,Mathematics,5,43,90
+986,99,Probability,Mathematics,6,43,95
+987,99,Probability,Mathematics,7,40,100
+988,99,Probability,Mathematics,8,48,97
+989,99,Probability,Mathematics,9,50,91
+990,99,Probability,Mathematics,10,49,98
+991,100,Linear Algebra,Mathematics,1,52,67
+992,100,Linear Algebra,Mathematics,2,52,68
+993,100,Linear Algebra,Mathematics,3,49,74
+994,100,Linear Algebra,Mathematics,4,48,67
+995,100,Linear Algebra,Mathematics,5,47,69
+996,100,Linear Algebra,Mathematics,6,42,76
+997,100,Linear Algebra,Mathematics,7,46,71
+998,100,Linear Algebra,Mathematics,8,47,70
+999,100,Linear Algebra,Mathematics,9,42,75
+1000,100,Linear Algebra,Mathematics,10,52,73
