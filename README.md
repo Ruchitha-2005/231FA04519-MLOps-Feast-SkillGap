@@ -254,8 +254,8 @@ It registers components such as the Entity, Data Source, FeatureView, and Featur
 
 The command applies the feature-store configuration and definitions to the Feast registry.
 
-**14. Historical Feature Retrieval
-**
+**14. Historical Feature Retrieval**
+
 Historical features are retrieved using Feast's get_historical_features() method.
 
 Historical retrieval is used to create the feature dataset required for machine-learning model training.
@@ -302,15 +302,15 @@ Materialization transfers historical feature values from the offline store to th
 
 The process is:
 
-Parquet Offline Store
+ Parquet Offline Store
 
-↓
+         ↓
 
-Materialization
+ Materialization
 
-↓
+         ↓
 
-SQLite Online Store
+ SQLite Online Store
 
 After materialization, the latest feature values can be retrieved quickly for prediction.
 
@@ -421,6 +421,7 @@ outputs/online_predictions.csv
 **Step 1:** Clone the repository.
 
 git clone https://github.com/Ruchitha-2005/231FA04519-MLOps-Feast-SkillGap
+
 **Step 2:** Open the project directory.
 
 cd <RegisterNumber>MLOps-Feast-SkillGap
@@ -451,8 +452,8 @@ feast materialize 2026-01-01T00:00:00 2026-01-01T00:16:40
 
 **Step 10:** Use the retrieved features to predict the Employability Level.
 
-**27. Results
-**
+**27. Results**
+
 The project demonstrates successful historical feature retrieval using Feast.
 
 Feature engineering creates technical skill, soft skill, and career readiness features from the original dataset.
