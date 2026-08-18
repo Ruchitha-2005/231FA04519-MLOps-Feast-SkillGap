@@ -184,7 +184,7 @@ The Feature Service provides a consistent group of features for model training a
 
 The overall workflow of the project is:
 
-Curriculum-Industry Skill Gap Dataset
+ Curriculum-Industry Skill Gap Dataset
 
             ↓
 
@@ -208,7 +208,7 @@ Curriculum-Industry Skill Gap Dataset
 
             ↓
 
-Historical Feature Retrieval / Materialization
+ Historical Feature Retrieval / Materialization
 
             ↓
 
