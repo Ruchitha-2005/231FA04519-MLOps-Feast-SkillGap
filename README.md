@@ -186,41 +186,41 @@ The overall workflow of the project is:
 
 Curriculum-Industry Skill Gap Dataset
 
-↓
+            ↓
 
-Data Preprocessing
+    Data Preprocessing
 
-↓
+            ↓
 
-Feature Engineering
+    Feature Engineering
 
-↓
+            ↓
 
-Student Feature Dataset
+    Student Feature Dataset
 
-↓
+            ↓
 
-Feast Data Source
+    Feast Data Source
 
-↓
+            ↓
 
-FeatureView
+       FeatureView
 
-↓
+            ↓
 
 Historical Feature Retrieval / Materialization
 
-↓
+            ↓
 
-Model Training / Online Store
+   Model Training / Online Store
 
-↓
+            ↓
 
-Online Feature Retrieval
+    Online Feature Retrieval
 
-↓
+            ↓
 
-Employability Prediction
+    Employability Prediction
 
 **11. Offline Store**
 
